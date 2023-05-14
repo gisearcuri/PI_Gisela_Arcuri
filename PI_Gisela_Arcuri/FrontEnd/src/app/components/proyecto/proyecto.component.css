@@ -5,7 +5,8 @@
 .contenedor{
     width: auto;
 }
-.parte1, .parte2{
+.parte1, .parte2{ 
+    h1,h2,h3{display: inline;}
     display: inline-block;
     text-align: justify;
 }
